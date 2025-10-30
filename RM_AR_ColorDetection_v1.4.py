@@ -1,5 +1,4 @@
 # RM_colorDetect_v1.4
-# Updated on 2024-06-19
 
 # description:
 # use HSV color space to detect red, green, blue color and ore
